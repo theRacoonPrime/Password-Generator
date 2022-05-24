@@ -2,7 +2,9 @@ import random
 import string
 
 
-# values to generate password from different characters
+
+# First attempt of password generator, in next version I try to make more complex and difficult password generator
+
 alphabets = list(string.ascii_letters)
 digits = list(string.digits)
 special_symbol = list("!@#$%^&*()")
